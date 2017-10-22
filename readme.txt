@@ -1,9 +1,9 @@
 === WP-Forum Latest Posts ===
 Contributors: Alphawolf
-Donate link: http://www.schloebe.de/donate/
+Donate link: https://www.schloebe.de/donate/
 Tags: WP-Forum, forum, latest, posts, list
 Requires at least: 2.1
-Tested up to: 4.4.9999
+Tested up to: 4.8.9999
 Stable tag: trunk
 
 WP-Forum Latest Posts surprisingly lists the latest posts from your WP-Forum. There are some option to customize the output and others.
@@ -12,13 +12,11 @@ WP-Forum Latest Posts surprisingly lists the latest posts from your WP-Forum. Th
 
 WP-Forum Latest Posts surprisingly lists the latest posts from your WP-Forum. There are some option to customize the output and others.
 
-[See plugin homepage for more details](http://www.schloebe.de/wordpress/wp-forum-latest-posts-plugin/)
+[See plugin homepage for more details](https://www.schloebe.de/wordpress/wp-forum-latest-posts-plugin/)
 
 [Developer on Google+](https://plus.google.com/118074611982254715031 "Developer on Google+") | [Developer on Twitter](http://twitter.com/wpseek "Developer on Twitter")
 
-[Become A Patron, Support The Developer.](http://www.patreon.com/oliver_schloebe "Become A Patron, Support The Developer.")
-
-**Looking for more WordPress plugins? Visit [www.schloebe.de/portfolio/](http://www.schloebe.de/portfolio/)**
+**Looking for more WordPress plugins? Visit [www.schloebe.de/portfolio/](https://www.schloebe.de/portfolio/)**
 
 == Frequently Asked Questions ==
 
@@ -30,3 +28,12 @@ None.
 1. Upload the folder wp-forum-latest-posts/ to your /wp-content/plugins/ folder.
 1. Activate the plugin from your Wordpress admin panel.
 1. Installation finished.
+
+== Changelog ==
+
+= 0.5.4 =
+* WordPress 4.8 compatibility
+
+= 0.5.3 =
+* WordPress 4.7 compatibility
+* PHP 7 compatibility

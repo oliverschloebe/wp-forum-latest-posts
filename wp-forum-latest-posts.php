@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: WP-Forum Latest Posts
-Version: 0.5.2
-Plugin URI: http://www.schloebe.de/wordpress/wp-forum-latest-posts-plugin/
+Version: 0.5.4
+Plugin URI: https://www.schloebe.de/wordpress/wp-forum-latest-posts-plugin/
 Description: Lists the latest posts from your WP-Forum.
 Author: Oliver Schl&ouml;be
-Author URI: http://www.schloebe.de/
+Author URI: https://www.schloebe.de/
 */
 
-define("WPFLP_VERSION", "0.5.2");
+define("WPFLP_VERSION", "0.5.4");
 
 function WPFLatestPosts($args = '') {
     global $wpdb, $PHP_SELF, $wp_version;
