@@ -3,7 +3,7 @@ Contributors: Alphawolf
 Donate link: https://www.schloebe.de/donate/
 Tags: WP-Forum, forum, latest, posts, list
 Requires at least: 2.1
-Tested up to: 5.1.9999
+Tested up to: 5.3.9999
 Stable tag: trunk
 
 WP-Forum Latest Posts surprisingly lists the latest posts from your WP-Forum. There are some option to customize the output and others.
@@ -14,7 +14,7 @@ WP-Forum Latest Posts surprisingly lists the latest posts from your WP-Forum. Th
 
 [See plugin homepage for more details](https://www.schloebe.de/wordpress/wp-forum-latest-posts-plugin/)
 
-[Developer on Google+](https://plus.google.com/118074611982254715031 "Developer on Google+") | [Developer on Twitter](http://twitter.com/wpseek "Developer on Twitter")
+[Developer on Twitter](https://twitter.com/wpseek "Developer on Twitter")
 
 **Looking for more WordPress plugins? Visit [www.schloebe.de/portfolio/](https://www.schloebe.de/portfolio/)**
 
@@ -30,6 +30,9 @@ None.
 1. Installation finished.
 
 == Changelog ==
+
+= 0.5.5 =
+* WordPress 5.3 compatibility
 
 = 0.5.4 =
 * WordPress 4.8 compatibility
